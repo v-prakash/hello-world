@@ -1,2 +1,6 @@
 # hello-world
-create hello-world as my first github repository
+
+Hello everyone
+
+If you are able to see this then my commit to a branch on github may have just worked.
+github Ahoy!
